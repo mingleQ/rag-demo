@@ -1,7 +1,6 @@
 *.ipynb
 *.md
 *.json
-*.txt
 *.csv
 *.xlsx
 *.xls
