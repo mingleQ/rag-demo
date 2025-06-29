@@ -1,14 +1,7 @@
-name: rag
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.12
-  - streamlit
-  - faiss-cpu
-  - openai
-  - python-dotenv
-  - pandas
-  - numpy
-  - pickle
-  
+streamlit
+faiss-cpu
+openai
+python-dotenv
+pandas
+numpy
+pickle
