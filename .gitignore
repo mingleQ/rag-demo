@@ -1,14 +1,7 @@
 *.ipynb
-*.md
-*.json
-*.csv
-*.xlsx
-*.xls
-*.docx
-*.doc
-*.pdf
 test*
 .env
 output/
 output2/
 __pycache__/
+input/

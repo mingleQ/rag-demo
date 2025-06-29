@@ -1,0 +1,5 @@
+{
+  "model_name": "text-embedding-3-large",
+  "dimension": 3072,
+  "total_vectors": 152
+}
