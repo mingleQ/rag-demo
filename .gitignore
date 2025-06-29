@@ -1,0 +1,15 @@
+*.ipynb
+*.md
+*.json
+*.txt
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pdf
+test*
+.env
+output/
+output2/
+__pycache__/
